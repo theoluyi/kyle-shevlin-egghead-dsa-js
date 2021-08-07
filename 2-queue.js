@@ -21,11 +21,13 @@ function createQueue() {
 }
 
 const q = createQueue()
-console.log(q.isEmpty())
+
+console.log(q.isEmpty()) // true
 
 q.enqueue("this is my first queue item")
 q.enqueue("you'll always be NUMBER 2")
 q.enqueue("three trees trusted their tryst's truth")
-console.log(q.isEmpty())
 
-console.log(q.length)
+console.log(q.isEmpty()) // false
+
+console.log(q.length) // 3
