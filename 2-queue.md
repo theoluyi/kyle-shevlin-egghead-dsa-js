@@ -10,7 +10,8 @@ Mr. Shevlin explains thus: "A queue is a first-in, first-out data structure (FIF
 The first person in line will get served first. If we think in terms of additions (enqueues) and removals (dequeues) from the line, that means that the first person enqueued will be the first person dequeued. Like a conveyor belt. Linear, chunked. Think [I Love Lucy in the Chocolate Factory](https://www.youtube.com/watch?v=NkQ58I53mjk)
 
 
-![I Love Lucy](https://giphy.com/gifs/food-eat-i-love-lucy-JKSaYOkCHcblK)
+![I Love Lucy](https://media.giphy.com/media/JKSaYOkCHcblK/giphy.gif)
+
 
 ### This is different from what?
 
