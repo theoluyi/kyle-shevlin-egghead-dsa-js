@@ -5,6 +5,12 @@ A queue basically functions like a line of people waiting to buy a slice of pizz
 
 Mr. Shevlin explains thus: "A queue is a first-in, first-out data structure (FIFO). We can only remove items from the queue one at a time, and must remove items in the same sequence as they were placed in the queue."
 
+###Mnemonic: "I love QC."
+
+- Obviously a snowclone of I Love Lucy
+- Sounds like the name: queues
+- References the metaphor of what a queue is (a FIFO conveyor belt, on which a person might perform Quality Control)
+
 ### FIFO principle: first in first out
 
 The first person in line will get served first. If we think in terms of additions (enqueues) and removals (dequeues) from the line, that means that the first person enqueued will be the first person dequeued. Like a conveyor belt. Linear, chunked. Think [I Love Lucy in the Chocolate Factory](https://www.youtube.com/watch?v=NkQ58I53mjk)
