@@ -5,7 +5,7 @@ A queue basically functions like a line of people waiting to buy a slice of pizz
 
 Mr. Shevlin explains thus: "A queue is a first-in, first-out data structure (FIFO). We can only remove items from the queue one at a time, and must remove items in the same sequence as they were placed in the queue."
 
-###Mnemonic: "I love QC."
+### Mnemonic: "I love QC."
 
 - Obviously a snowclone of I Love Lucy
 - Sounds like the name: queues
